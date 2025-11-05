@@ -1,6 +1,6 @@
-# 🥗 Mini Calorie Tracker
+# 🥗 Mini Calories Tracker
 
-Track your daily meals and stay aware of your calorie intake with a clean and responsive Angular application.
+Track your daily meals and stay aware of your calories intake with a clean and responsive Angular application.
 
 ![App Screenshot](public/web-page.png)
 
@@ -31,8 +31,8 @@ Track your daily meals and stay aware of your calorie intake with a clean and re
 Clone the repo and run the project locally:
 
 ```bash
-git clone https://github.com/SeifAkmal/mini-calorie-tracker.git
-cd mini-calorie-tracker
+git clone https://github.com/SeifAkmal/mini-calories-tracker.git
+cd mini-calories-tracker
 npm install
 ng serve
 ```
