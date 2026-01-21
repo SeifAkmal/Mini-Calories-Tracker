@@ -56,13 +56,14 @@ cd mini-calories-tracker
 npm install
 ng serve
 ```
-🌐 Open in Browser
-After running the project locally, open: http://localhost:4200
+## 🌐 Open in Browser
+After running the project locally, open:
+http://localhost:4200
 
-🔗 Live Demo
+## 🔗 Live Demo
 https://mini-calories-tracker.netlify.app/
 
-👨‍💻 Author
-Seif Akmal
-Front-End Developer (Angular)
+## 👨‍💻 Author
+**Seif Akmal**  
+Front-End Developer (Angular)  
 GitHub: https://github.com/SeifAkmal
