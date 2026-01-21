@@ -1,47 +1,68 @@
 # 🥗 Mini Calories Tracker
 
-Track your daily meals and stay aware of your calories intake with a clean and responsive Angular application.
+A simple and clean **Angular application** for tracking daily meals and monitoring calorie intake.
+
+The project focuses on core frontend fundamentals such as state handling, basic calculations, and building a responsive UI, without unnecessary complexity or over-engineering.
 
 ![App Screenshot](public/web-page.png)
 
 ---
 
+## 🧾 Overview
+
+Mini Calories Tracker allows users to log daily meals and instantly view calorie statistics.
+It is designed as a small, focused project to demonstrate clean Angular logic and solid frontend fundamentals.
+
+---
+
 ## ✨ Features
 
-- ➕ Add, delete, and display meals instantly
-- 🔥 Auto-calculated statistics (Total, Average, Highest calories)
-- 💾 Persistent data using LocalStorage
-- 📱 Fully responsive UI built with SCSS
+* Add and delete meals instantly
+* Automatically calculated statistics:
+  * Total calories
+  * Average calories
+  * Highest calorie meal
+* Data persistence using **LocalStorage**
+* Fully responsive UI built with **SCSS**
 
 ---
 
 ## 🧰 Tech Stack
 
-| Technology | Usage |
-|------------|-------|
-| Angular    | Main framework |
-| TypeScript | App logic & typing |
-| SCSS       | Styling & layout |
-| LocalStorage | Saves data in the browser |
+* **Angular**
+* **TypeScript**
+* **SCSS**
+* **LocalStorage** for client-side data persistence
+
+---
+
+## 🧠 Key Concepts
+
+This project demonstrates:
+
+* Basic state management in Angular
+* Handling user input and dynamic lists
+* Performing calculations based on application state
+* Persisting data in the browser using LocalStorage
+* Building responsive layouts without external UI libraries
 
 ---
 
 ## 🚀 Getting Started
-
-Clone the repo and run the project locally:
 
 ```bash
 git clone https://github.com/SeifAkmal/mini-calories-tracker.git
 cd mini-calories-tracker
 npm install
 ng serve
-```
-**Open Locally:**  
-➡️ [http://localhost:4200/](http://localhost:4200/)
 
-**Live Demo:**  
-🌐 [https://mini-calories-tracker.netlify.app/](https://mini-calories-tracker.netlify.app/)
+🌐 Open in Browser
+After running the project locally, open: http://localhost:4200
 
+🔗 Live Demo
+https://mini-calories-tracker.netlify.app/
 
-
-
+👨‍💻 Author
+Seif Akmal
+Front-End Developer (Angular)
+GitHub: https://github.com/SeifAkmal
