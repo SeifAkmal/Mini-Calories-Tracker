@@ -66,7 +66,7 @@ http://localhost:4200
 ---
 
 ## 🔗 Live Demo
-https://mini-calories-tracker.netlify.app/
+https://mini-calories-tracker.pages.dev/
 
 ---
 
